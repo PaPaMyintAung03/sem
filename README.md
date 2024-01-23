@@ -1,2 +1,2 @@
 # sem
-![workflow](https://github.com/PaPaMyintAung03/sem/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/PaPaMyintAung03/sem/actions/workflows/master.yml/badge.svg)
