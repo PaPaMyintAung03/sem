@@ -5,4 +5,4 @@
 
 [![Releases](https://img.shields.io/github/release/PaPaMyintAung03/sem/all.svg?style=flat-square)](https://github.com/PaPaMyintAung03/sem/releases)
 
-(https://img.shields.io/github/actions/workflow/status/PaPaMyintAung03/sem/.github%2Fworkflows%2Fmain.yml)
+(https://img.shields.io/github/actions/workflow/status/PaPaMyintAung03/sem/.github%2Fworkflows%2Fmaster.yml)
